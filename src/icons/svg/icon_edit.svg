@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>icon_edit</title>
+    <desc>Created with Sketch.</desc>
+    <g id="随访管理" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="随访管理-随访记录-交互组件" transform="translate(-1170.000000, -563.000000)" fill-rule="nonzero">
+            <g id="表格" transform="translate(356.000000, 472.000000)">
+                <g id="1" transform="translate(0.000000, 72.000000)">
+                    <g id="icon_edit" transform="translate(811.000000, 16.000000)">
+                        <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                        <path d="M20,12 C20,13.3333333 20,15.3333333 20,18 L20,18 C20,19.1045695 19.1045695,20 18,20 L6,20 C4.8954305,20 4,19.1045695 4,18 L4,6 C4,4.8954305 4.8954305,4 6,4 C8.66666667,4 10.6666667,4 12,4" id="Path" stroke="#73A81C" stroke-width="1.5" stroke-linecap="round"></path>
+                        <polygon id="Rectangle" fill="#73A81C" transform="translate(15.000000, 9.585786) rotate(-315.000000) translate(-15.000000, -9.585786) " points="14 2.58578644 14 14.3752601 15 16.5857864 16 14.3752601 16 2.58578644"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>lftnav_icon_05_def</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-11.7%" y="-3.1%" width="123.3%" height="106.2%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="2" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="8" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.04 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="随访管理" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="随访管理-随访记录-交互组件" transform="translate(-32.000000, -466.000000)" fill-rule="nonzero" stroke-width="1.5">
+            <g id="左侧导航栏" filter="url(#filter-1)">
+                <g id="导航栏/未选中-copy-3" transform="translate(0.000000, 445.000000)">
+                    <g id="Group-2">
+                        <g id="医生管理" transform="translate(32.000000, 21.000000)">
+                            <g id="Group">
+                                <polygon id="Rectangle" stroke="#666666" points="16 4 28 10 16 16 4 10"></polygon>
+                                <polyline id="Shape" stroke="#666666" points="28 16 16 22 4 16"></polyline>
+                                <polyline id="Shape" stroke="#73A81B" points="28 22 16 28 4 22"></polyline>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

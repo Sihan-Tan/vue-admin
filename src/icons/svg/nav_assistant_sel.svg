@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>lftnav_icon_06_sel</title>
+    <desc>Created with Sketch.</desc>
+    <g id="图标汇总" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="绿谷后台图标汇总" transform="translate(-492.000000, -257.000000)" fill-rule="nonzero">
+            <g id="lftnav_icon_05_sel" transform="translate(492.000000, 257.000000)">
+                <g id="Group">
+                    <rect id="Rectangle" stroke="#73A81C" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" x="9" y="3" width="14" height="18" rx="7"></rect>
+                    <path d="M22.9032353,11.5 L7.09676472,11.5 C6.4910765,11.5 6,11.1641874 6,10.75 C6,10.3358126 6.4910765,10 7.09676472,10 L22.9032353,10 C23.5089235,10 23.5089235,11.5 22.9032353,11.5 Z" id="Path" fill="#73A81C"></path>
+                    <path d="M11.2299834,18.9865737 C7.54370593,20.6017728 5,24.0308344 5,28 C11.3385482,28 21.2171618,28 27,28 L27,28" id="Path" stroke="#73A81C" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <polygon id="Rectangle" fill="#73A81C" transform="translate(24.000000, 22.000000) rotate(-315.000000) translate(-24.000000, -22.000000) " points="23 16.4142136 23 25.3752601 24 27.5857864 25 25.3752601 25 16.4142136"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

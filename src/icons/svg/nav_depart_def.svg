@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>lftnav_icon_15_def</title>
+    <desc>Created with Sketch.</desc>
+    <g id="图标汇总" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="绿谷后台图标汇总" transform="translate(-1412.000000, -329.000000)" fill-rule="nonzero">
+            <g id="icon/科室管理/未选中" transform="translate(1412.000000, 329.000000)">
+                <rect id="Rectangle" fill="#666666" x="4" y="4" width="1.5" height="24" rx="0.75"></rect>
+                <rect id="Rectangle" stroke="#666666" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" x="8" y="4" width="19" height="24" rx="2"></rect>
+                <rect id="Rectangle" fill="#666666" x="13" y="18" width="9" height="1.5" rx="0.75"></rect>
+                <rect id="Rectangle-Copy" fill="#666666" x="13" y="22" width="9" height="1.5" rx="0.75"></rect>
+                <path d="M17.5,8 C17.9142136,8 18.25,8.33578644 18.25,8.75 L18.25,10.75 L20.25,10.75 C20.6642136,10.75 21,11.0857864 21,11.5 C21,11.9142136 20.6642136,12.25 20.25,12.25 L18.249,12.25 L18.25,14.25 C18.25,14.6642136 17.9142136,15 17.5,15 C17.0857864,15 16.75,14.6642136 16.75,14.25 L16.749,12.25 L14.75,12.25 C14.3357864,12.25 14,11.9142136 14,11.5 C14,11.0857864 14.3357864,10.75 14.75,10.75 L16.75,10.75 L16.75,8.75 C16.75,8.33578644 17.0857864,8 17.5,8 Z" id="Combined-Shape" fill="#73A81C"></path>
+            </g>
+        </g>
+    </g>
+</svg>

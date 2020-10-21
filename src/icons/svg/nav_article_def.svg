@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>lftnav_icon_16_def</title>
+    <desc>Created with Sketch.</desc>
+    <g id="图标汇总" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="绿谷后台图标汇总" transform="translate(-1504.000000, -329.000000)" fill-rule="nonzero" stroke-width="1.5">
+            <g id="icon/文章管理/未选中" transform="translate(1504.000000, 329.000000)">
+                <path d="M3,6 C7.99353897,5.42195106 12.3268723,6.08861772 16,8 L16,28 C12.3268723,26.0687009 7.99353897,25.4020342 3,26 C3,19.9389719 3,10.8688665 3,6 Z" id="Rectangle" stroke="#666666"></path>
+                <path d="M6.48003483,13 C8.70085596,12.7887579 10.7133577,13.161021 12.51754,14.1167893" id="Path-5" stroke="#73A81C"></path>
+                <path d="M6.48003483,18 C8.70085596,17.7887579 10.7133577,18.161021 12.51754,19.1167893" id="Path-5-Copy" stroke="#666666"></path>
+                <path d="M16,6 C20.993539,5.42195106 25.3268723,6.08861772 29,8 L29,28 C25.3268723,26.0687009 20.993539,25.4020342 16,26 C16,19.9389719 16,10.8688665 16,6 Z" id="Rectangle" stroke="#666666" transform="translate(22.500000, 16.899332) scale(-1, 1) translate(-22.500000, -16.899332) "></path>
+                <path d="M19.48246,13 C21.7032811,12.7887579 23.7157828,13.161021 25.5199652,14.1167893" id="Path-5" stroke="#666666" transform="translate(22.501213, 13.529717) scale(-1, 1) translate(-22.501213, -13.529717) "></path>
+                <path d="M19.48246,18 C21.7032811,17.7887579 23.7157828,18.161021 25.5199652,19.1167893" id="Path-5-Copy" stroke="#666666" transform="translate(22.501213, 18.529717) scale(-1, 1) translate(-22.501213, -18.529717) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

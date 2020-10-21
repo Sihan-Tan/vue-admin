@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>lftnav_icon_17_def</title>
+    <desc>Created with Sketch.</desc>
+    <g id="图标汇总" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="绿谷后台图标汇总" transform="translate(-1596.000000, -329.000000)" fill-rule="nonzero" stroke="#666666" stroke-width="1.5">
+            <g id="icon/文章管理/未选中-copy-2" transform="translate(1596.000000, 329.000000)">
+                <circle id="Oval" stroke-linejoin="round" cx="16" cy="14" r="6"></circle>
+                <path d="M20.9760255,3.98635712 C19.4432836,3.35078699 17.7626071,3 16,3 C8.82029825,3 3,8.82029825 3,16 C3,23.1797017 8.82029825,29 16,29 C23.1797017,29 29,23.1797017 29,16 C29,14.2373929 28.649213,12.5567164 28.0136429,11.0239745 C27.3547658,9.43502543 26.3898359,8.00505964 25.1923882,6.80761184" id="Path"></path>
+                <path d="M16,20 C19.8744706,20 23.1771188,22.4482627 24.4452907,25.8821341 C22.1730469,27.8267287 19.2235396,29 16,29 C12.7765286,29 9.82707779,27.8267783 7.55536198,25.8840494 C8.82288125,22.4482627 12.1255294,20 16,20 Z" id="Combined-Shape" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

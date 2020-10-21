@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>lftnav_icon_04_sel</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-11.7%" y="-3.1%" width="123.3%" height="106.2%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="2" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="8" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.04 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="药店管理" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-32.000000, -393.000000)" fill-rule="nonzero" id="左侧导航栏">
+            <g filter="url(#filter-1)">
+                <g id="导航栏/未选中-copy-2" transform="translate(0.000000, 372.000000)">
+                    <g id="Group">
+                        <g id="随访管理" transform="translate(32.000000, 21.000000)">
+                            <g id="Group">
+                                <polyline id="Path" stroke="#73A81C" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="26 18 26 28 6 28 6 18 6 18"></polyline>
+                                <path d="M16,5 L7.7823678,5 C6.27129731,5.00000185 4.99607373,6.12386347 4.8061582,7.6229519 C4.54796724,9.66096884 4.29022529,11.6897801 4.03293235,13.7093856 C3.48174302,18.0359132 10.001747,18.745862 12.1901874,16.6238155 C13.1840122,18 15.1587431,18 16,18" id="Path-4" stroke="#73A81C" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <path d="M28,5 L19.7823678,5 C18.2712973,5.00000185 16.9960737,6.12386347 16.8061582,7.6229519 C16.5479672,9.66096884 16.2902253,11.6897801 16.0329324,13.7093856 C15.481743,18.0359132 22.001747,18.745862 24.1901874,16.6238155 C25.1840122,18 27.1587431,18 28,18" id="Path-4-Copy" stroke="#73A81C" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" transform="translate(22.000000, 11.500000) scale(-1, 1) translate(-22.000000, -11.500000) "></path>
+                                <rect id="Rectangle" fill="#73A81C" x="8" y="11" width="16" height="1.5" rx="0.75"></rect>
+                                <path d="M16,19.75 C16.4142136,19.75 16.75,20.0857864 16.75,20.5 L16.75,22 L18.25,22 C18.6642136,22 19,22.3357864 19,22.75 C19,23.1642136 18.6642136,23.5 18.25,23.5 L16.749,23.5 L16.75,25 C16.75,25.4142136 16.4142136,25.75 16,25.75 C15.5857864,25.75 15.25,25.4142136 15.25,25 L15.249,23.5 L13.75,23.5 C13.3357864,23.5 13,23.1642136 13,22.75 C13,22.3357864 13.3357864,22 13.75,22 L15.25,22 L15.25,20.5 C15.25,20.0857864 15.5857864,19.75 16,19.75 Z" id="Combined-Shape" fill="#73A81C"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

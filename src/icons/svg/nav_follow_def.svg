@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>lftnav_icon_01_def</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-11.7%" y="-3.1%" width="123.3%" height="106.2%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="2" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="8" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.04 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="医生管理" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="医生管理（横向滚动）" transform="translate(-32.000000, -101.000000)" fill-rule="nonzero">
+            <g id="左侧导航栏" filter="url(#filter-1)">
+                <g id="导航栏-选中" transform="translate(0.000000, 80.000000)">
+                    <g id="Group-2">
+                        <g id="医生管理" transform="translate(32.000000, 21.000000)">
+                            <g id="Group">
+                                <rect id="Rectangle" stroke="#666666" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" x="5" y="9" width="22" height="17" rx="2"></rect>
+                                <path d="M12,5 L20,5 C21.1045695,5 22,5.8954305 22,7 L22,9 L22,9 L10,9 L10,7 C10,5.8954305 10.8954305,5 12,5 Z" id="Rectangle" stroke="#666666" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <path d="M16,17 C16.4142136,17 16.75,17.3357864 16.75,17.75 L16.75,19.25 L18.25,19.25 C18.6642136,19.25 19,19.5857864 19,20 C19,20.4142136 18.6642136,20.75 18.25,20.75 L16.749,20.75 L16.75,22.25 C16.75,22.6642136 16.4142136,23 16,23 C15.5857864,23 15.25,22.6642136 15.25,22.25 L15.249,20.75 L13.75,20.75 C13.3357864,20.75 13,20.4142136 13,20 C13,19.5857864 13.3357864,19.25 13.75,19.25 L15.25,19.25 L15.25,17.75 C15.25,17.3357864 15.5857864,17 16,17 Z" id="Combined-Shape" fill="#73A81C"></path>
+                                <rect id="Rectangle" fill="#666666" x="5" y="13" width="22" height="1.5"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
